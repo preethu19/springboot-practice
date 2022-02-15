@@ -1,0 +1,5 @@
+com\example\serviceB\repository\OrderRepository.class
+com\example\serviceB\controller\OrderController.class
+com\example\serviceB\ServiceBApplication.class
+com\example\serviceB\service\OrderService.class
+com\example\serviceB\model\Orders.class

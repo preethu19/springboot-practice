@@ -1,0 +1,5 @@
+com\example\serviceD\model\Detail.class
+com\example\serviceD\controller\DetailController.class
+com\example\serviceD\model\Customer.class
+com\example\serviceD\ServiceDApplication.class
+com\example\serviceD\model\Orders.class
